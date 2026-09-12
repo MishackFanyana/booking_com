@@ -1,0 +1,51 @@
+submitted_at,full_name,id_number,email,phone,check_in,check_out,room_type,num_guests,purpose,organisation,accessibility,dietary,emergency_name,emergency_phone
+2026-09-11T20:31:03,Bongani Tshabalala,0383907763432,u14731210@tuks.co.za,768982705,2026/09/19,2026/09/30,Single,3,Research,Student,Ground floor room,N/A,Musa Cele,825019254
+2026-09-20T17:45:23,Mpho Nkosi,8502218291947,u13306849@tuks.co.za,742257012,2026/09/23,2026/10/13,Double,2,Internship,Student,Hearing assistance,N/A,Dineo Buthelezi,732473976
+2026-09-10T19:13:33,Mpho Buthelezi,9598683751452,u11578846@tuks.co.za,786689658,2026/09/24,2026/09/30,Family,2,Work,Standard Bank,N/A,N/A,Zanele Nkosi,715163502
+2026-09-20T04:46:34,Thabo Zulu,0680477904847,thabo112@outlook.com,715492160,2026/09/20,2026/10/10,Double,1,Conference,MTN,Ground floor room,Vegan,Thulani Mabaso,781925998
+2026-09-23T05:29:03,Thulani Ngcobo,7162566158030,thulani28@outlook.com,843225936,2026/09/08,2026/09/15,Twin,2,Study,Student,N/A,N/A,Kagiso Radebe,744769540
+2026-09-08T11:26:48,Nomvula Sithole,6989324267917,nomvula863@webmail.co.za,764285702,2026/09/11,2026/10/02,Single,2,Study,Student,N/A,N/A,Lindiwe Zulu,731563417
+2026-09-22T10:30:50,Palesa Khumalo,5331797170047,palesa697@gmail.com,786618037,2026/09/13,2026/09/25,Single,1,Conference,Eskom,Ground floor room,N/A,Nomsa Buthelezi,731553644
+2026-09-21T07:43:11,Naledi Mnguni,8404363097749,naledi327@outlook.com,748753577,2026/09/10,2026/09/28,Twin,2,Research,Sasol,Wheelchair access,N/A,Rethabile Sithole,782788768
+2026-09-07T05:10:19,Mandla Ngcobo,2109014760620,u16749806@tuks.co.za,826141122,2026/09/24,2026/10/08,No preference,2,Research,Sasol,N/A,Vegan,Onthatile Dlamini,828049478
+2026-09-23T02:37:41,Nomvula Gumede,7206633997027,nomvula4@outlook.com,836821688,2026/09/28,2026/10/01,No preference,3,Work,University of Johannesburg,Hearing assistance,Halal,Nthabiseng Buthelezi,792038735
+2026-09-08T21:33:39,Nomvula Cele,0287350762233,nomvula705@yahoo.com,712547320,2026/09/16,2026/09/17,Single,1,Research,Nedbank,Hearing assistance,Noodles,Thabo Mthembu,745275457
+2026-09-15T02:11:33,Precious Mokoena,6431278946077,u11843610@tuks.co.za,841079817,2026/09/13,2026/09/26,Double,1,Conference,Sasol,Hearing assistance,Halal,Bongani Gumede,748857956
+2026-09-19T20:30:54,Sanele Mokoena,4102096552054,sanele35@gmail.com,793984378,2026/09/28,2026/10/11,Family,2,Research,Eskom,Wheelchair access,Gluten-free,Thabo Sithole,842581110
+2026-09-18T22:48:39,Mpho Mahlangu,6549004094989,u15912668@tuks.co.za,722750474,2026/09/14,2026/10/03,Single,1,Conference,Nedbank,Hearing assistance,Noodles,Sipho Mahlangu,789281111
+2026-09-17T14:49:06,Sipho Mokwena,2625151971688,sipho367@tuks.co.za,711222566,2026/09/18,2026/10/01,No preference,2,Research,Eskom,Wheelchair access,Gluten-free,Palesa Nkosi,716511709
+2026-09-18T02:03:39,Sthembiso Mthembu,1885144281503,sthembiso288@outlook.com,836523645,2026/09/08,2026/09/09,Double,3,Conference,Nedbank,Ground floor room,Noodles,Nomsa Tshabalala,841513033
+2026-09-24T14:15:41,Andile Mokwena,1144697301163,andile523@tuks.co.za,848028268,2026/09/30,2026/10/07,Double,2,Work,Freelance,N/A,Gluten-free,Musa Khumalo,838390781
+2026-09-07T19:32:28,Andile Zulu,2905495809985,u17035910@tuks.co.za,739100746,2026/09/11,2026/10/01,Double,2,Work,University of Johannesburg,N/A,Chicken & Pap,Palesa Cele,722550800
+2026-09-27T10:13:21,Thulani Sithole,1709820023764,u15335138@tuks.co.za,723675027,2026/09/18,2026/09/30,Twin,1,Conference,University of Johannesburg,N/A,N/A,Rethabile Mokwena,734739553
+2026-09-15T03:41:32,Mandla Mthembu,9614116485689,u10459021@tuks.co.za,725435449,2026/09/30,2026/10/21,Twin,1,Conference,Discovery,Hearing assistance,Vegetarian,Palesa Tshabalala,789998945
+2026-09-15T09:47:12,Naledi Ndlovu,8879463714016,naledi367@yahoo.com,833386129,2026/09/26,2026/10/07,Twin,1,Internship,Discovery,Ground floor room,Vegetarian,Xolani Zulu,769912317
+2026-09-12T17:31:34,Sizwe Mokwena,3303423191712,sizwe472@webmail.co.za,746928001,2026/09/29,2026/10/12,Single,1,Study,Freelance,N/A,Vegan,Ayanda Gumede,833633637
+2026-09-11T06:13:18,Andile Mabaso,1719946468457,andile50@outlook.com,788305359,2026/09/24,2026/10/01,Single,2,Study,Standard Bank,N/A,Halal,Rethabile Tshabalala,767832802
+2026-09-08T08:42:38,Thabo Zulu,2290599034483,thabo896@tuks.co.za,835491381,2026/09/07,2026/09/13,Family,1,Internship,MTN,N/A,Vegan,Nomvula Molefe,735358389
+2026-09-07T18:55:58,Kagiso Mokoena,4866878179686,kagiso519@outlook.com,745096442,2026/09/23,2026/10/06,Family,1,Leisure,Absa,Hearing assistance,N/A,Themba Zulu,783030156
+2026-09-21T17:14:31,Lindiwe Gumede,9720593544185,lindiwe643@outlook.com,849713056,2026/09/29,2026/10/19,Double,1,Study,Sasol,Hearing assistance,N/A,Sibusiso Mthembu,838845264
+2026-09-23T12:46:21,Palesa Sithole,1851173010155,palesa478@gmail.com,725209721,2026/09/10,2026/09/18,Twin,1,Research,University of Johannesburg,Hearing assistance,Noodles,Karabo Cele,725493497
+2026-09-08T07:07:36,Dineo Tshabalala,2411779255347,dineo955@gmail.com,781639280,2026/09/20,2026/09/23,No preference,2,Study,Student,Hearing assistance,Noodles,Sipho Mthembu,733220346
+2026-09-06T18:44:07,Sibusiso Sibiya,9486502389118,sibusiso105@webmail.co.za,713322046,2026/09/07,2026/09/14,Single,2,Research,MTN,Hearing assistance,N/A,Lerato Dlamini,834975249
+2026-09-25T15:30:54,Bheki Tshabalala,5525477976384,bheki656@yahoo.com,795006780,2026/09/21,2026/10/11,Family,1,Internship,Vodacom,N/A,Vegan,Refilwe Cele,836750487
+2026-09-12T22:34:28,Musa Molefe,5833921286762,musa684@webmail.co.za,732246182,2026/09/22,2026/10/07,No preference,2,Internship,Freelance,Wheelchair access,Gluten-free,Boitumelo Mahlangu,843339631
+2026-09-26T15:37:10,Mandla Mokwena,2965497269128,u10648123@tuks.co.za,718314171,2026/09/11,2026/09/15,Twin,2,Conference,Wits University,N/A,Vegetarian,Dineo Zulu,719225770
+2026-09-20T08:12:45,Mpho Ndlovu,9584780228946,u18678225@tuks.co.za,769850846,2026/09/22,2026/10/07,Double,2,Leisure,MTN,Hearing assistance,Noodles,Refilwe Mokoena,716098302
+2026-09-13T08:59:38,Thulani Ndlovu,5784343665598,u18449005@tuks.co.za,725075730,2026/09/11,2026/09/27,Double,1,Conference,MTN,N/A,Vegetarian,Nthabiseng Zulu,845315342
+2026-09-16T13:53:21,Sthembiso Mabaso,4588539043328,u19112163@tuks.co.za,722715689,2026/09/09,2026/09/24,Family,1,Leisure,Student,N/A,Vegan,Vusi Mabaso,789948052
+2026-09-12T09:34:46,Nomsa Cele,1324874933705,nomsa39@gmail.com,847784268,2026/09/18,2026/10/06,No preference,1,Conference,BrightMart,Hearing assistance,Gluten-free,Naledi Mahlangu,848009211
+2026-09-19T10:48:28,Ayanda Buthelezi,4408656513140,u14766085@tuks.co.za,796244588,2026/09/29,2026/10/02,Single,1,Leisure,Wits University,Wheelchair access,N/A,Ayanda Ndlovu,782322765
+2026-09-07T08:38:16,Bongani Tshabalala,0591297583425,bongani504@yahoo.com,783058912,2026/09/19,2026/10/07,Single,3,Research,Wits University,N/A,Vegan,Nthabiseng Dlamini,828190314
+2026-09-15T12:22:11,Nolwazi Mokwena,6249110156588,u15141962@tuks.co.za,725101931,2026/09/14,2026/10/04,Twin,1,Internship,Discovery,Hearing assistance,Vegetarian,Mandla Dlamini,733057683
+2026-09-23T12:05:37,Bongani Molefe,1851321386255,u10748018@tuks.co.za,798979067,2026/09/15,2026/09/29,Double,2,Leisure,University of Pretoria,N/A,Halal,Nomsa Ndlovu,825834755
+2026-09-16T10:30:18,Bongani Zulu,0680665107234,bongani783@webmail.co.za,797013946,2026/09/27,2026/10/07,Twin,1,Conference,Sasol,Wheelchair access,Vegan,Karabo Gumede,844344296
+2026-09-18T23:45:31,Rethabile Nkosi,5969855905935,rethabile580@yahoo.com,737055519,2026/09/16,2026/09/28,Single,1,Conference,Freelance,N/A,N/A,Sthembiso Mokwena,847841847
+2026-09-12T05:29:56,Ntombi Mokwena,5216814330857,ntombi212@yahoo.com,836022585,2026/09/22,2026/10/05,No preference,2,Work,University of Johannesburg,Ground floor room,N/A,Vusi Mthembu,769431999
+2026-09-17T14:02:27,Sanele Mthembu,0359018053621,u19950081@tuks.co.za,729758817,2026/09/11,2026/09/22,Twin,1,Leisure,Vodacom,N/A,N/A,Naledi Mokwena,795109007
+2026-09-17T15:39:17,Zanele Mthembu,6825868366213,zanele152@outlook.com,745608809,2026/09/19,2026/10/09,Single,2,Work,Discovery,N/A,Chicken & Pap,Lindiwe Sibiya,848323395
+2026-09-25T22:44:18,Kagiso Molefe,8242580293505,u17888095@tuks.co.za,721812020,2026/09/20,2026/10/09,No preference,1,Leisure,Discovery,Ground floor room,N/A,Mpho Ngcobo,725462871
+2026-09-17T08:19:57,Thulani Mthembu,3833241674635,thulani640@yahoo.com,828037757,2026/09/06,2026/09/08,Single,3,Internship,Wits University,Wheelchair access,Gluten-free,Sanele Ndlovu,735348507
+2026-09-22T23:33:46,Kagiso Cele,8840526885703,kagiso495@outlook.com,827287185,2026/09/29,2026/10/10,Single,2,Internship,Standard Bank,N/A,Vegetarian,Ntombi Buthelezi,832691967
+2026-09-22T14:05:16,Bheki Cele,0131507896691,bheki796@gmail.com,827927471,2026/09/23,2026/10/02,Twin,1,Leisure,Nedbank,N/A,Chicken & Pap,Katlego Ngcobo,832707847
+2026-09-16T09:46:10,Sipho Nkosi,2951318665682,u16336174@tuks.co.za,767167297,2026/09/19,2026/10/07,Double,1,Internship,Standard Bank,Wheelchair access,N/A,Kagiso Dlamini,726233303
